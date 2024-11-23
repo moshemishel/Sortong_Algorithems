@@ -10,15 +10,11 @@ count performence for sorting algorithems
 
 ```
 sorting_algorithms/
-├── algorithms/
-│   ├── __init__.py
-│   ├── insertion_sort.py
-│   ├── merge_sort.py
-│   ├── quick_sort.py
-│   └── heap_sort.py
-├── tests/
-│   ├── __init__.py
-│   └── test_sorting_algorithms.py
+├── insertion_sort.py
+├── merge_sort.py
+├── quick_sort.py
+└── heap_sort.py
+└── test_sorting_algorithms.py
 ├── requirements.txt
 └── README.md
 ```
@@ -62,7 +58,7 @@ sorting_algorithms/
 
 כל אלגוריתם נמדד על פי:
 - מספר השוואות
-- מספר השמות/התחלות
+- מספר השמות
 - סך כל הפעולות
 
 ## שימוש בקוד
