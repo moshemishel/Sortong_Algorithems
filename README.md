@@ -1,4 +1,4 @@
-# Sortong_Algorithems
+# Sorting_Algorithems
 count performence for sorting algorithems
 
 
